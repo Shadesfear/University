@@ -1,0 +1,26 @@
+* todo
+** Week 1
+*** TODO Read pages 1 - 15 [[file:./books/magnetism-in-condensed-matter.pdf][blundell]]
+    DEADLINE: <2019-11-18 Mon>
+*** TODO ex Magnetism Problems 1.1 [[.//magnetism_problem.pdf][magnetism_problem]]
+    DEADLINE: <2019-11-18 Mon>
+*** TODO ex blundell 1.1,1.2,1.9,1.7
+    DEADLINE: <2019-11-18 Mon>
+*** TODO Read pages 18-36  [[file:./books/magnetism-in-condensed-matter.pdf][blundell]]
+    DEADLINE: <2019-11-22 Fri>
+*** TODO ex 2.1,2.4,4.5,2.7  [[file:./books/magnetism-in-condensed-matter.pdf][blundell]]
+
+* Notes
+
+
+** Week 1
+   #+BEGIN_SRC python :results output
+from sympy.physics import units as u
+from sympy.physics.units.util import quantity_simplify
+from scipy.constants import e
+
+b = u.hbar
+print(a)
+   #+END_SRC
+
+   #+RESULTS:
