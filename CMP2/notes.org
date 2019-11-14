@@ -17,7 +17,6 @@
    #+BEGIN_SRC python :results output
 from sympy.physics import units as u
 from sympy.physics.units.util import quantity_simplify
-from scipy.constants import e
 
 b = u.hbar
 print(a)
